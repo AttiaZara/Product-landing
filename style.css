@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 70vh;
+	background-image: url(pic_1.png);
+	background-repeat: repeat;
+	background-size: contain;
+	
+}
+
+.container{
+	background-color: rgba(80, 146, 172, 0.815);
+	max-width: 650px;
+	padding: 20px;
+	margin: 0px 28px;
+	box-shadow: 0px 5px 20px  rgb(113, 114, 112);
+	border-radius: 10px;
+}
+h2{
+	font-size: 30px;
+	font-weight: 600;
+	text-align: center;
+	padding-bottom: 2px;
+	border-bottom: 2px solid grey;
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+label{
+
+}
+input{
+
+}
+.gender_title{
+
+}
+.gender_selections{
+
+}
